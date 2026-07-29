@@ -52,4 +52,238 @@ Currently advancing through a structured **deep learning and GenAI roadmap**, ta
 
 <br/>
 
-**↳ Open To**
+
+## ◈ Tech Stack
+
+<div align="center">
+
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,java,bash,markdown&theme=dark)](https://skillicons.dev)
+
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,vue&theme=dark)](https://skillicons.dev)
+
+### Backend & Databases
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,mongodb,redis&theme=dark)](https://skillicons.dev)
+
+### Cloud, DevOps & Tooling
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode,jupyter&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## ◈ AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Classical Machine Learning | ███████████ Expert | Linear/Logistic Regression, SVM, KNN, Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost, Optuna |
+| Deep Learning | ██████████░ Advanced | ANN, CNN, RNN, LSTM, GRU, Transformers, Attention Mechanisms |
+| Generative AI & LLMs | █████████░░ Proficient | LangChain, Prompt Engineering, RAG Pipelines, LLM Orchestration |
+| Agentic AI | ████████░░░ Developing | LangGraph, Tool-Use Agents, Multi-Agent Systems, MCP Protocol |
+| Unsupervised Learning | ███████████ Expert | KMeans, DBSCAN, GMM, Hierarchical Clustering, t-SNE |
+| MLOps & Deployment | ████████░░░ Developing | FastAPI, Docker, GitHub Actions, Model Versioning, CI/CD |
+| NLP | █████████░░ Proficient | Embeddings, Tokenization, Fine-Tuning Transformers (Planned) |
+| Data Engineering | ██████████░ Advanced | Pandas, NumPy, Feature Engineering, EDA, Imbalanced Data |
+| SQL & Analytics | ███████████ Expert | Window Functions, CTEs, Correlated Subqueries, psycopg2, PostgreSQL |
+| Visualization | ██████████░ Advanced | Matplotlib, Seaborn, Plotly, Power BI, Excel |
+
+</div>
+
+---
+
+## ◈ Featured Projects
+
+<details>
+<summary><b>◉ Real Estate Price Prediction Engine</b> — Capstone ML Project</summary>
+
+<br/>
+
+A production-grade machine learning system engineered to predict residential property prices with high accuracy and interpretability. Designed with a full data science lifecycle: ingestion, EDA, feature engineering, model selection, hyperparameter optimization with Optuna, and evaluation against multiple regression benchmarks.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Python · Scikit-learn · XGBoost · LightGBM · Optuna · Pandas · Matplotlib · Seaborn |
+| **Scale** | Full pipeline from raw CSV to deployment-ready inference endpoint |
+| **Performance** | Ensemble stacking with Optuna-tuned hyperparameters; RMSE-optimized |
+| **Security** | Input validation, schema enforcement, no data leakage across train/test splits |
+| **Impact** | DSMP Capstone Project — demonstrates end-to-end ML engineering competency |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Devraj-Gurjar) |
+
+The project demonstrates mastery of the full ML development lifecycle — from understanding business requirements and translating them into feature engineering decisions, to model selection, stacking strategies, and evaluation under realistic constraints. The architecture is designed to be deployment-ready via FastAPI.
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>◉ Advanced SQL Portfolio — University Database Analytics System</b></summary>
+
+<br/>
+
+A comprehensive SQL portfolio project built on the Silberschatz University relational database schema, demonstrating mastery of enterprise-level database querying and Python connectivity. Covers the full spectrum of modern SQL usage from foundational joins to advanced analytical patterns.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | PostgreSQL · Python · psycopg2 · SQL (DDL, DML, DCL) |
+| **Scale** | 10+ complex query categories; multi-table schemas with referential integrity |
+| **Performance** | Index-aware query design; window functions over large relation sets |
+| **Security** | Parameterized queries via psycopg2; safe credential management |
+| **Impact** | Portfolio targeting ML+SQL hybrid roles; demonstrates production SQL readiness |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Devraj-Gurjar/university-database-sql-project) |
+
+Covers window functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD), CTEs and recursive CTEs, correlated subqueries, advanced aggregations with HAVING and FILTER, set operations, and full Python/PostgreSQL connectivity through psycopg2. Designed to serve as a recruiter-facing portfolio piece for data-adjacent engineering roles.
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>◉ Interactive Data Visualization Dashboard — Plotly & PowerBi </b></summary>
+
+<br/>
+
+A multi-library visualization engineering project spanning static, interactive, and animated charts across real-world datasets. Demonstrates the ability to communicate data narratives through high-quality visual outputs calibrated for both technical and non-technical stakeholders.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Python · Matplotlib · Seaborn · Plotly · Pandas |
+| **Scale** | 15+ chart types; multi-dataset comparative analysis |
+| **Performance** | Optimized for rendering speed; vectorized Pandas operations |
+| **Security** | No external API dependencies; fully offline execution |
+| **Impact** | Demonstrates data storytelling competency for analyst and engineering roles |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Devraj-Gurjar) |
+
+Includes heatmaps, violin plots, pair plots, animated scatter plots with Plotly Express, faceted subplots, and custom Matplotlib figure management. Built to demonstrate visual communication as a core engineering skill, not merely a nice-to-have.
+
+<br/>
+
+</details>
+
+---
+
+## ◈ Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---:|:---|
+| **IIT Madras Foundation Level — Completed** | Cleared all 8 Foundation courses: Maths I & II, Statistics I & II, Python, Computational Thinking, English I & II |
+| **IIT Madras Diploma Level — In Progress** | Completed PDSA, DBMS, ML Foundations; pursuing advanced Diploma courses |
+| **Cleared JEE** | Pursuing B.S in Data Science and Applications from IIT Madras |
+| **Advanced SQL Portfolio** | Built enterprise-grade SQL portfolio on Silberschatz schema with window functions, CTEs, correlated subqueries |
+| **ML Capstone Project** | Delivered end-to-end real estate price prediction engine |
+</div>
+
+---
+
+## ◈ Certifications
+
+<div align="center">
+
+### Amazon Web Services
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+
+### Oracle
+[![Oracle](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/certification)
+
+### NPTEL — IIT
+[![NPTEL](https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-6A0DAD?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)&nbsp;
+[![NPTEL](https://img.shields.io/badge/NPTEL-Database%20Management%20Systems-4B0082?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)&nbsp;
+[![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-7B2FBE?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)
+
+### Cisco
+[![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
+
+</div>
+
+---
+
+## ◈ Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Devraj-Gurjar)&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Devraj-Gurjar)&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-View%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/Devraj-Gurjar)&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Devraj-Gurjar)
+
+</div>
+
+---
+
+## ◈ GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devraj-Gurjar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj-Gurjar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Devraj-Gurjar&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6B7280&currStreakNum=8B5CF6&sideNums=8B5CF6" width="60%" />
+
+</div>
+
+---
+
+## ◈ GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-trophies.vercel.app/?username=Devraj-Gurjar&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ◈ Contribution Activity
+
+<div align="center">
+
+[![Devraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devraj-Gurjar&bg_color=0D0D0D&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true&area_color=4B0082&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## ◈ Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devraj-Gurjar/Devraj-Gurjar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devraj-Gurjar/Devraj-Gurjar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Devraj-Gurjar/Devraj-Gurjar/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## ◈ Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - "ANN · CNN · RNN · LSTM · Transformers · Attention"
+    - "GenAI using LangChain"
+    - "RAG Pipelines · LLM Orchestration · Prompt Engineering"
+
+  building:
+    - "Real Estate Price Prediction Engine"
+    - "SQL Analytics Portfolio on Silberschatz University Schema"
+    - "FastAPI ML Deployment Pipelines"
+
+  exploring:
+    - "Fine-Tuning Transformers on Custom Datasets"
+    - "Agentic AI with LangGraph · MCP Protocol"
+    - "Multi-Agent System Architecture Patterns"
+
+  open_to:
+    - "AI Engineer · ML Engineer · Data Scientist"
+    - "Full Time · Internship · Remote · Hybrid"
