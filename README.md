@@ -22,7 +22,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-7B2FBE?style=flat-square&logo=firefox&logoColor=white)](https://github.com/Devraj-Gurjar)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/DevrajPatel)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devraj-patel-9257013a0/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-6A0DAD?style=flat-square&logo=gmail&logoColor=white)](mailto:devrajpatel9614@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devraj-Gurjar)
 
@@ -287,3 +287,4 @@ current_focus:
   open_to:
     - "AI Engineer · ML Engineer · Data Scientist"
     - "Full Time · Internship · Remote · Hybrid"
+```
