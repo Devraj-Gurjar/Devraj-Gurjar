@@ -42,13 +42,13 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Devraj-Gurjar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github" />
 
-I am an AI Engineer and Data Scientist in the making — currently pursuing a **BS in Data Science & Applications from IIT Madras**, with a strong foundation in classical ML, deep learning, and full stack development.
+I am an aspiring AI Engineer and Data Scientist — currently pursuing a **BS in Data Science & Applications from IIT Madras**, with a growing foundation in classical ML, deep learning fundamentals, and full stack development.
 
-My engineering philosophy is rooted in building **production-grade, scalable, and interpretable AI systems** — not just notebooks. I approach every project with a product mindset: who uses this, why it matters, and how it performs under real-world conditions.
+My engineering philosophy is rooted in building **interpretable, well-structured, and deployable AI systems** — not just notebooks. I approach every project with a product mindset: who uses this, why it matters, and how it performs under real-world conditions.
 
-My technical arsenal spans the full pipeline — from **data ingestion and feature engineering** through **model training, evaluation, and MLOps deployment**. I specialize in building intelligent systems using LLMs, Transformers, LangChain, and agentic AI frameworks, complemented by strong backend and DevOps engineering skills.
+My technical journey spans the full pipeline — from **data ingestion and feature engineering** through **model training, evaluation, and interactive deployment** via Streamlit. I'm actively building hands-on projects across regression, classification, and SQL-based data systems, while progressing through a structured **deep learning and GenAI learning roadmap**.
 
-Currently advancing through a structured **deep learning and GenAI roadmap**, targeting an AI Engineer role as a fresher — a bar I am engineering every single day toward.
+Currently working toward an AI Engineer role as a fresher — a bar I am engineering every single day toward.
 
 <br/>
 
@@ -79,16 +79,14 @@ Currently advancing through a structured **deep learning and GenAI roadmap**, ta
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| Classical Machine Learning | ███████████ Expert | Linear/Logistic Regression, SVM, KNN, Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost, Optuna |
-| Deep Learning | ██████████░ Advanced | ANN, CNN, RNN, LSTM, GRU, Transformers, Attention Mechanisms |
-| Generative AI & LLMs | █████████░░ Proficient | LangChain, Prompt Engineering, RAG Pipelines, LLM Orchestration |
-| Agentic AI | ████████░░░ Developing | LangGraph, Tool-Use Agents, Multi-Agent Systems, MCP Protocol |
-| Unsupervised Learning | ███████████ Expert | KMeans, DBSCAN, GMM, Hierarchical Clustering, t-SNE |
-| MLOps & Deployment | ████████░░░ Developing | FastAPI, Docker, GitHub Actions, Model Versioning, CI/CD |
-| NLP | █████████░░ Proficient | Embeddings, Tokenization, Fine-Tuning Transformers (Planned) |
-| Data Engineering | ██████████░ Advanced | Pandas, NumPy, Feature Engineering, EDA, Imbalanced Data |
-| SQL & Analytics | ███████████ Expert | Window Functions, CTEs, Correlated Subqueries, psycopg2, PostgreSQL |
-| Visualization | ██████████░ Advanced | Matplotlib, Seaborn, Plotly, Power BI, Excel |
+| Classical Machine Learning | ██████████░ Advanced | Linear/Logistic Regression, SVM, KNN, Decision Trees, Random Forest, Gradient Boosting |
+| Deep Learning | ███████░░░░ Learning | ANN, CNN, RNN, LSTM basics; working through structured DL curriculum |
+| Generative AI & LLMs | ██████░░░░░ Exploring | LangChain, Prompt Engineering, RAG concepts |
+| Unsupervised Learning | █████████░░ Proficient | KMeans, DBSCAN, GMM, Hierarchical Clustering |
+| Data Engineering | █████████░░ Proficient | Pandas, NumPy, Feature Engineering, EDA, Data Cleaning |
+| SQL & Analytics | ██████████░ Advanced | Joins, Window Functions, CTEs, Subqueries, PostgreSQL |
+| App Deployment | █████████░░ Proficient | Streamlit, model serialization, interactive dashboards |
+| Visualization | █████████░░ Proficient | Matplotlib, Seaborn, Plotly |
 
 </div>
 
@@ -97,66 +95,55 @@ Currently advancing through a structured **deep learning and GenAI roadmap**, ta
 ## ◈ Featured Projects
 
 <details>
-<summary><b>◉ Real Estate Price Prediction Engine</b> — Capstone ML Project</summary>
+<summary><b>◉ NovaTrust Bank — Streamlit Banking System</b></summary>
 
 <br/>
 
-A production-grade machine learning system engineered to predict residential property prices with high accuracy and interpretability. Designed with a full data science lifecycle: ingestion, EDA, feature engineering, model selection, hyperparameter optimization with Optuna, and evaluation against multiple regression benchmarks.
+A Streamlit-based banking system application supporting core banking operations — account creation, deposits, withdrawals, and full account CRUD (view/update/delete) — with persistent local storage.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · Scikit-learn · XGBoost · LightGBM · Optuna · Pandas · Matplotlib · Seaborn |
-| **Scale** | Full pipeline from raw CSV to deployment-ready inference endpoint |
-| **Performance** | Ensemble stacking with Optuna-tuned hyperparameters; RMSE-optimized |
-| **Security** | Input validation, schema enforcement, no data leakage across train/test splits |
-| **Impact** | DSMP Capstone Project — demonstrates end-to-end ML engineering competency |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Devraj-Gurjar) |
-
-The project demonstrates mastery of the full ML development lifecycle — from understanding business requirements and translating them into feature engineering decisions, to model selection, stacking strategies, and evaluation under realistic constraints. The architecture is designed to be deployment-ready via FastAPI.
+| **Stack** | Python · Streamlit · JSON-based storage |
+| **Features** | Account creation, deposit/withdraw, view/update/delete account |
+| **Storage** | Local `data.json` file for persistence across sessions |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Devraj-Gurjar/BANKING-SYSTEM) |
 
 <br/>
 
 </details>
 
 <details>
-<summary><b>◉ Advanced SQL Portfolio — University Database Analytics System</b></summary>
+<summary><b>◉ Car Price Predictor — ML Regression App</b></summary>
 
 <br/>
 
-A comprehensive SQL portfolio project built on the Silberschatz University relational database schema, demonstrating mastery of enterprise-level database querying and Python connectivity. Covers the full spectrum of modern SQL usage from foundational joins to advanced analytical patterns.
+An interactive Streamlit application that predicts used car prices based on user inputs. Rewrote the original model-building notebook into a proper deployed, interactive UI.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | PostgreSQL · Python · psycopg2 · SQL (DDL, DML, DCL) |
-| **Scale** | 10+ complex query categories; multi-table schemas with referential integrity |
-| **Performance** | Index-aware query design; window functions over large relation sets |
-| **Security** | Parameterized queries via psycopg2; safe credential management |
-| **Impact** | Portfolio targeting ML+SQL hybrid roles; demonstrates production SQL readiness |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Devraj-Gurjar/university-database-sql-project) |
-
-Covers window functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD), CTEs and recursive CTEs, correlated subqueries, advanced aggregations with HAVING and FILTER, set operations, and full Python/PostgreSQL connectivity through psycopg2. Designed to serve as a recruiter-facing portfolio piece for data-adjacent engineering roles.
+| **Stack** | Python · Scikit-learn · Streamlit · Pandas |
+| **Features** | Real-time price prediction from car attributes via interactive form |
+| **Deployment** | Live on Streamlit Community Cloud |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Devraj-Gurjar/Cars_price_predictor) |
+| **Live Demo** | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://carspricepredictor-k5nbjf9pqscpee4ddptdae.streamlit.app/) |
 
 <br/>
 
 </details>
 
 <details>
-<summary><b>◉ Interactive Data Visualization Dashboard — Plotly & PowerBi </b></summary>
+<summary><b>◉ Medical Insurance Risk Dashboard</b></summary>
 
 <br/>
 
-A multi-library visualization engineering project spanning static, interactive, and animated charts across real-world datasets. Demonstrates the ability to communicate data narratives through high-quality visual outputs calibrated for both technical and non-technical stakeholders.
+An interactive Streamlit dashboard that predicts smoker status from insurance and demographic data using a Gradient Boosting Classifier, with built-in EDA, model performance, and feature importance views.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · Matplotlib · Seaborn · Plotly · Pandas |
-| **Scale** | 15+ chart types; multi-dataset comparative analysis |
-| **Performance** | Optimized for rendering speed; vectorized Pandas operations |
-| **Security** | No external API dependencies; fully offline execution |
-| **Impact** | Demonstrates data storytelling competency for analyst and engineering roles |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Devraj-Gurjar) |
-
-Includes heatmaps, violin plots, pair plots, animated scatter plots with Plotly Express, faceted subplots, and custom Matplotlib figure management. Built to demonstrate visual communication as a core engineering skill, not merely a nice-to-have.
+| **Stack** | Python · Streamlit · Scikit-learn (Gradient Boosting) · Plotly · Pandas |
+| **Features** | Live prediction engine, dataset EDA, confusion matrix, classification report, feature importance |
+| **Data Source** | KaggleHub-hosted medical insurance dataset |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Devraj-Gurjar/Medical-Insurance-Dashboard) |
 
 <br/>
 
@@ -172,9 +159,9 @@ Includes heatmaps, violin plots, pair plots, animated scatter plots with Plotly 
 |:---:|:---|
 | **IIT Madras Foundation Level — Completed** | Cleared all 8 Foundation courses: Maths I & II, Statistics I & II, Python, Computational Thinking, English I & II |
 | **IIT Madras Diploma Level — In Progress** | Completed PDSA, DBMS, ML Foundations; pursuing advanced Diploma courses |
-| **Cleared JEE** | Pursuing B.S in Data Science and Applications from IIT Madras |
-| **Advanced SQL Portfolio** | Built enterprise-grade SQL portfolio on Silberschatz schema with window functions, CTEs, correlated subqueries |
-| **ML Capstone Project** | Delivered end-to-end real estate price prediction engine |
+| **Qualified JEE** | Admitted to B.S in Data Science and Applications, IIT Madras |
+| **3 Deployed Streamlit Applications** | NovaTrust Bank, Car Price Predictor, Medical Insurance Risk Dashboard |
+
 </div>
 
 ---
@@ -249,26 +236,24 @@ Includes heatmaps, violin plots, pair plots, animated scatter plots with Plotly 
 
 </div>
 
-
+---
 
 ## ◈ Current Focus
 
 ```yaml
 current_focus:
   learning:
-    - "ANN · CNN · RNN · LSTM · Transformers · Attention"
-    - "GenAI using LangChain"
-    - "RAG Pipelines · LLM Orchestration · Prompt Engineering"
+    - "ANN · CNN · RNN · LSTM fundamentals"
+    - "GenAI basics using LangChain"
+    - "Prompt Engineering · RAG concepts"
 
   building:
-    - "Real Estate Price Prediction Engine"
-    - "SQL Analytics Portfolio on Silberschatz University Schema"
-    - "FastAPI ML Deployment Pipelines"
+    - "SQL Portfolio — Library Management System (PostgreSQL)"
+    - "More end-to-end ML deployment projects"
 
   exploring:
-    - "Fine-Tuning Transformers on Custom Datasets"
-    - "Agentic AI with LangGraph · MCP Protocol"
-    - "Multi-Agent System Architecture Patterns"
+    - "Transformers and attention mechanisms"
+    - "Agentic AI concepts (early stage)"
 
   open_to:
     - "AI Engineer · ML Engineer · Data Scientist"
