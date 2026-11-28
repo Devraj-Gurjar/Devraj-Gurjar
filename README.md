@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Devraj%20Patel&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Data%20Science%20%40%20IIT%20Madras&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+end-to-end+ML+projects+%F0%9F%9A%80;From+raw+data+to+deployed+apps+%E2%9A%A1;Learning+Deep+Learning+%26+GenAI+%F0%9F%A7%A0;Open+to+Internships+%26+Remote+Roles+%F0%9F%8C%90)](https://git.io/typing-svg)
